@@ -1,0 +1,117 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "dart.openDevTools": "flutter",
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "cmake.configureOnOpen": true,
+    "java.project.importHint": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "[cpp]": {
+        "editor.quickSuggestions": true
+    },
+    "[c]": {
+        "editor.quickSuggestions": true
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": true,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        "editor.colorDecorators": true,
+        "editor.autoClosingBrackets":"always",
+        "editor.autoClosingQuotes": "always",
+        "editor.autoIndent": "advanced",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "git-autoconfig.configList": [
+        {
+            "user.email": "calcitem"
+        },
+        {
+            "user.email": "calcitem@outlook.com",
+            "user.name": "Calcitem"
+        }
+    ],
+    "dart.devToolsTheme": "light",
+    "dart.allowAnalytics": true,
+    "dart.previewLsp": true,
+    //"dart.analysisServerHighlighting": "true",
+    "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#EFEFEF",
+        "statusBar.foreground": "#000000",
+        "statusBar.noFolderBackground" : "#0A0A0D",
+        "statusBar.debuggingBackground": "#511f1f",
+        "activityBar.background": "#efefef",
+        "activityBar.foreground": "#000000",
+        "activityBarBadge.background": "#A0A0A0",
+        "titleBar.activeBackground": "#EFEFEF",
+        "dart.closingLabels": "#A0A0A0",
+    },
+    "workbench.sideBar.location": "left",
+    "[json]": {
+
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#860606",
+        "strings": "#804040",
+        "variables": "#808080",
+        "numbers": "#000000",
+        "functions": "#000000",
+        "keywords": "#0000FF",
+        "types": "#0000A0",
+        //"textMateRules": []
+    },
+    "dart.previewEmbeddedDevTools": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "enableTelemetry": false,
+    "bracketPairColorizer.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.9"
+    ],
+    "bracketPairColorizer.consecutivePairColors": [
+
+        "()",
+        "[]",
+        "{}",
+        [
+            "Gray",
+            "LightSkyBlue",
+            "Blue",
+        ],
+        "Red"
+    ],
+    "sync.autoUpload": true,
+    "files.associations": {
+        "*.vcxproj": "cpp"
+    },
+    "editor.fontSize": 16,
+    "gtags.global_path": "D:\\glo663wb\\bin\\global",
+    "gtags.gtags_path": "D:\\glo663wb\\bin\\gtags",
+    "editor.quickSuggestions": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk",
+    "indentRainbow.includedLanguages": ["dart"], // for example ["nim", "nims", "python"]
+    "indentRainbow.tabmixColor": "rgba(240,240,240,0.6)",
+    "indentRainbow.errorColor": "rgba(240,240,240,0.6)",
+    "editor.renderIndentGuides": false,
+}
